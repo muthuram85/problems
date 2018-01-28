@@ -7,7 +7,6 @@
 5. There is a 1-d array of size n and it has 0’s, 1’s and 2’s randomly distributed. Can you arrange all 0’s , 1’s and 2’s together iterating the array only once.
 
 ## Day 2
-Problems related to dynamic programming
 6. Find the nth Fibonacci number.
 7. Given two strings find the longest common subsequence
 8. Given an array of n numbers, find a contiguous subsequence for which the sum of the elements is maximum. 
